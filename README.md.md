@@ -111,8 +111,5 @@ Todos los casos se validaron con las 3 estructuras de datos activas.
 
 ## 🎥 Video demostrativo
 
-Video de máximo 3 minutos, disponible en: `[pendiente — agregar enlace de YouTube]`
+Video de máximo 3 minutos, disponible en: https://www.youtube.com/watch?v=aBvktbAeKQE
 
-- **0:00 – 1:15:** demostración en vivo de las operaciones de la cola.
-- **1:15 – 2:00:** ejecución del benchmark de estrés y explicación del resultado.
-- **2:00 – 3:00:** explicación del método `Invertir()`, señalando `previo`, `actual` y `siguiente`.
