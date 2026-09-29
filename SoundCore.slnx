@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SoundCore.EstructurasPropias/SoundCore.EstructurasPropias.csproj" />
+  <Project Path="SoundCore.Modelos/SoundCore.Modelos.csproj" />
+  <Project Path="SoundCore.UI/SoundCore.UI.csproj" />
+</Solution>
