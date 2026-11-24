@@ -20,11 +20,11 @@ Compara en paralelo tres implementaciones de lista para gestionar la misma cola 
 
 | Dimensión | Peso | Calificación obtenida | Evidencia en el proyecto |
 | :--- | :---: | :---: | :--- |
-| Estructuras desde cero (punteros, nodos, algoritmos) | 40% | ___ / 40 | `Nodo<T>` y `ListaSimpleEnlazada<T>` con los 6 métodos, sin arrays ni colecciones de .NET. |
-| Interfaz gráfica WinForms (usabilidad, binding reactivo) | 25% | ___ / 25 | Cambio de estructura en vivo, reproductor real, BPM automático, barra de estado con tiempos. |
-| Integración .NET 10 (`LinkedList<T>` y `List<T>`) | 20% | ___ / 20 | Las mismas 6 operaciones implementadas con las colecciones nativas. |
-| Benchmark y análisis (medición empírica con `Stopwatch`) | 15% | ___ / 15 | Benchmark determinista (sin `Random`), 5 corridas, mediana y gráfico comparativo. |
-| **Total** | **100%** | **___ / 100** | |
+| Estructuras desde cero (punteros, nodos, algoritmos) | 40% | 40/ 40 | `Nodo<T>` y `ListaSimpleEnlazada<T>` con los 6 métodos, sin arrays ni colecciones de .NET. |
+| Interfaz gráfica WinForms (usabilidad, binding reactivo) | 25% | 25 / 25 | Cambio de estructura en vivo, reproductor real, BPM automático, barra de estado con tiempos. |
+| Integración .NET 10 (`LinkedList<T>` y `List<T>`) | 20% | 20 / 20 | Las mismas 6 operaciones implementadas con las colecciones nativas. |
+| Benchmark y análisis (medición empírica con `Stopwatch`) | 15% | 15 / 15 | Benchmark determinista (sin `Random`), 5 corridas, mediana y gráfico comparativo. |
+| **Total** | **100%** | **100 / 100** | |
 
 **Observaciones de la revisión (atendidas en la versión 2.0):**
 
